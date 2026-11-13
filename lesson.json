@@ -1,0 +1,16 @@
+{
+  "lesson": 84,
+  "title": "Market-Based Multi-Agent Architecture",
+  "application": "Second-Price Resource Auction",
+  "purpose": "Validate sealed bids for one resource slot, clear a second-price auction and explain the allocation separately from the payment rule.",
+  "exercise": "Raise the reserve above every bid, then test a single eligible bidder. Confirm no payment is actually executed.",
+  "source_topics": [
+    "00-Arquitectura multiagente basada en mercados.png",
+    "01-Coordinate-with-a-Market.png",
+    "02-Choose-a-Market-Mechanism.png",
+    "03-The-Market-Workflow.png",
+    "04-Clear-the-Market-in-Code.png",
+    "05-Worked-Example-Three-Bids.png",
+    "06-Incentives-Pitfalls-and-Uses.png"
+  ]
+}

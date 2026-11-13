@@ -1,0 +1,20 @@
+{
+  "bids": [
+    {
+      "agent": "a",
+      "bid": 30,
+      "budget": 40
+    },
+    {
+      "agent": "b",
+      "bid": 20,
+      "budget": 25
+    },
+    {
+      "agent": "c",
+      "bid": 25,
+      "budget": 35
+    }
+  ],
+  "reserve": 10
+}

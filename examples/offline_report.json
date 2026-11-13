@@ -1,0 +1,15 @@
+{
+  "lesson": 84,
+  "application": "Second-Price Resource Auction",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "winner": "a",
+    "price": 25,
+    "winning_bid": 30,
+    "mechanism": "sealed-bid second-price, one slot",
+    "cleared": true,
+    "explanation": "Agent a wins with a bid of 30 and pays the second-highest eligible bid, 25. This is a local allocation simulation."
+  },
+  "measured_cost_usd": null
+}

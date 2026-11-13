@@ -1,0 +1,14 @@
+[
+  {
+    "sequence": 1,
+    "kind": "stage_started",
+    "stage": "explain_auction",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 2,
+    "kind": "stage_finished",
+    "stage": "explain_auction",
+    "elapsed_seconds": 0.00026
+  }
+]
